@@ -1,0 +1,1 @@
+Telefon z tą aplikacją będzie ładować Tesle pod czas jazdy na USB port. 
